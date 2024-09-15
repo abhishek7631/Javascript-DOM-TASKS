@@ -12,3 +12,5 @@ setInterval(showNextImage, 3000);
 // extra code....
 
 setInterval(showNextImage, 3000);
+
+setInterval(showNextImage, 3000);
