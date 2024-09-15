@@ -10,5 +10,3 @@ function showNextImage() {
 setInterval(showNextImage, 3000);
 
 // extra code....
-
-setInterval(showNextImage, 3000);
